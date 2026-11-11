@@ -1,4 +1,4 @@
-#Desconto por quantidade
+# Sistema de desconto por quantidade | Autor: Marcus Vinícius
 
 preco = float(input("Qual o preço do produto? "))
 if preco <= 0:
