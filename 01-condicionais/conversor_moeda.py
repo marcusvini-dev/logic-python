@@ -1,4 +1,4 @@
-#conversor de moeda 
+# Sistema de Câmbio e Conversão de Moedas | Autor: Marcus Vinícius
 
 moeda = (input("Qual o tipo de moeda você quer fazer oo câmbio Dolar / Euro / Libra / Real? "))
 quantidade = float(input("Qual a quantidade? "))
