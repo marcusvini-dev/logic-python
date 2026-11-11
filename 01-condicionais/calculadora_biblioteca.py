@@ -1,4 +1,4 @@
-#Calculadora de multa da biblioteca
+# Projeto: Sistema de Controle e Cálculo de Multas de Biblioteca | Autor: Marcus Vinícius
 
 atraso = int(input("Quantos dias de atraso? "))
 if atraso < 0:
