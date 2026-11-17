@@ -1,4 +1,4 @@
-# Projeto: Sistema de Aluguel de Carros # Autor: Marcus Vinícius
+# Projeto: Sistema de Aluguel de Carros | Autor: Marcus Vinícius
 
 dias = int(input('Quantidade de dias? ')) # O programa começa pedindo a quantidade de dias.
 
